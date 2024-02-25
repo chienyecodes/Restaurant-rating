@@ -44,6 +44,7 @@ The following Power BI skills were incorporated-
 - Ranking
 - Data Modelling
 
+![](Restaurant_rating_dashboard.png)
 
 ## Results/Findings
 
