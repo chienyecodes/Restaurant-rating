@@ -23,6 +23,12 @@ In the intial data preparation phase, I performed the following tasks:
 Data loading and inspection
 Handling missing values
 Data cleaning and formatting
+Some interesting formulas I worked with were RANK statements to highlight the top restaurants by rating and consumers.
+
+Rank By Rating = RANKX(ALL(restaurants[Name]), CALCULATE(AVERAGE(ratings[Overall_Rating])), ,DESC)
+And
+Top 3 Restaurants by Avg Rating = IF(restaurants[Rank By Rating]<=3,"Orange")
+
 
 ## Data Modelling
 ![](Restaurant_data_modelling.png)
