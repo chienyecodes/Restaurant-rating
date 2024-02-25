@@ -1,4 +1,5 @@
 # Restaurant-rating
+## Introduction
 This data analysis project aims to analyze and draw out meaningful insights from a customer survey of restaurants in some mexican cities to aid business entrepreneurs and investors in making more informed decisions.
 
 ## Data Sources
@@ -24,8 +25,8 @@ Handling missing values
 Data cleaning and formatting
 
 ## Data Modelling
-insert image !!
-
+![](Restaurant_data_modelling.png)
+The figure above explains the relationship I established between the relevant foreign and primary keys, in related data tables
 
 ## Exploratory Data Analysis
 
