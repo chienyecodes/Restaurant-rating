@@ -32,3 +32,11 @@ In the intial data preparation phase, I performed the following tasks:
 Data loading and inspection
 Handling missing values
 Data cleaning and formatting
+
+## Exploratory Data Analysis
+
+EDA involved exploring the customer survey data to answer key questions such as:
+- What can you learn from the highest rated restaurants? Do consumer preferences have an effect on ratings?
+- What are the consumer demographics? Does this indicate a bias in the data sample?
+- Are there any demand & supply gaps that you can exploit in the market?
+- If you were to invest in a restaurant, which characteristics would you be looking for?
