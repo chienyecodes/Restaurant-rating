@@ -19,7 +19,16 @@ The following Power BI skills were incorporated-
 - Data Modelling
 
   
-## Data Cleaning
+## Data Cleaning/Preparation
+### Data Cleaning
+
 In the data cleaning phase, I performed the following tasks:
 - Data loading and inspection
 - Data cleaning and formatting
+
+### Data Preparation
+
+In the intial data preparation phase, I performed the following tasks:
+Data loading and inspection
+Handling missing values
+Data cleaning and formatting
